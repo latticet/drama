@@ -1,6 +1,6 @@
 'use strict';
 
-var Koa = require('Koa');
+var Koa = require('koa');
 var sha1 = require('sha1');
 
 var config = {
